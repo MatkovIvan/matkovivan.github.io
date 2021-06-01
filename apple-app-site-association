@@ -1,0 +1,13 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "285W24646W.com.akvelon.test.adjust.unitysdkdev",
+          "paths": [
+            "*"
+          ]
+        }
+      ]
+    }
+  }
